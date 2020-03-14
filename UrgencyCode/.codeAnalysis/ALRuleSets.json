@@ -1,0 +1,11 @@
+{
+    "name": "Workshop",
+    "description": "Workshop Rules",
+    "rules": [
+        {
+            "id": "AA0137",
+            "action": "Error",
+            "justification": "Must remove unused variables"
+        }
+    ]
+}

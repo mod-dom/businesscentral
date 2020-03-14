@@ -1,0 +1,8 @@
+﻿{
+    "branchId":  "6f4189cf-7401-46f1-b84c-2c4c156923fd",
+    "navSolution":  "W1",
+    "projectName":  "Urgency",
+    "navVersion":  "13.0.0.0",
+    "dockerImage":  "mcr.microsoft.com/businesscentral/sandbox:rs",
+    "dockerShared":  "true"
+}

@@ -1,2 +1,2 @@
 # businesscentral
-Business Central projects
+Dynamics 365 Business Central

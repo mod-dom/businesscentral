@@ -1,0 +1,19 @@
+{
+    "version":  "0.2.0",
+    "configurations":  [
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Publish to local server",
+                               "server":  "http://urgency",
+                               "port":  7049,
+                               "tenant":  "Default",
+                               "serverInstance":  "NAV",
+                               "authentication":  "Windows",
+                               "startupObjectId":  9305,
+                               "startupObjectType":  "Page",
+                               "schemaUpdateMode": "Synchronize",
+                               "breakOnError": true
+                           }
+                       ]
+}
